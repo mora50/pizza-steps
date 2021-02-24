@@ -6,7 +6,7 @@ Tecnologias: ReactJS, NextJS
 ## Como instalar
 
 1. Install with npm
-2. Clone o .env-example e renomeie para .env-local
+2. Clone o .env-example e renomeie para .env.local
 
 ```sh
 npm install
