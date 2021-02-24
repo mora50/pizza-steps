@@ -1,12 +1,12 @@
 # React Pizza
 
-Formulário com 3 passos de uma pizzaria
+Formulário com 3 passos de uma pizzaria \
 Tecnologias: ReactJS, NextJS
 
 ## Como instalar
 
-1. Install with npm
-2. Clone o .env-example e renomeie para .env-local
+1. Instale com npm
+2. Clone o .env-example e renomeie para .env.local
 
 ```sh
 npm install
