@@ -1,6 +1,6 @@
 # React Pizza
 
-Formulário com 3 passos de uma pizzaria
+Formulário com 3 passos de uma pizzaria \
 Tecnologias: ReactJS, NextJS
 
 ## Como instalar
